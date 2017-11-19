@@ -1,0 +1,21 @@
+server:
+   port: 8080
+
+zuul:
+   addProxyHeaders: false
+   routes:
+   
+     asyncgetmarketsurveyslistcache:
+          path: /asyncgetmarketsurveyslist/**
+          url: http://localhost:8090/asyncgetmarketsurveyslistcache
+   
+     getmarketsurveyslistcache: 
+          path: /getmarketsurveyslist/**
+          url: http://localhost:8090/getmarketsurveyslistcache
+     
+     getmarketsurvey:
+          path: /getmarketsurvey/**
+          url: http://localhost:8090/getmarketsurvey
+ribbon:
+    eureka:
+      enabled: false

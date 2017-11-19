@@ -1,0 +1,61 @@
+***************************************************************************************************************************
+SQLite: http://dominoc925.blogspot.com.es/2015/11/an-example-of-using-sqlite-database-in.html
+HATEOAS: https://spring.io/guides/gs/rest-hateoas/
+JPA: http://cleancodejava.com/simple-spring-data-jpa-example/
+
+https://www.adictosaltrabajo.com/tutoriales/spring-hateoas/
+http://mycuteblog.com/h2-database-example-hibernate-spring-boot/
+http://javasampleapproach.com/spring-framework/spring-boot/integrate-h2-database-springboot-spring-jpa-embedded-mode
+
+https://www.leveluplunch.com/java/tutorials/014-post-json-to-spring-rest-webservice/
+https://memorynotfound.com/spring-boot-spring-data-jpa-hibernate-h2-web-console/
+
+https://dzone.com/articles/building-hateoas-hypermedia
+
+netflix zuul gateway: https://spring.io/guides/gs/routing-and-filtering/
+
+https://stackoverflow.com/questions/30584242/hateoas-paths-are-invalid-when-using-an-api-gateway-in-a-spring-boot-app
+
+http://www.baeldung.com/spring-rest-with-zuul-proxy
+
+Asynchronous https://stackoverflow.com/questions/28540421/spring-mvc-deferredresult-add-hateoas-stuff
+
+https://github.com/eugenp/tutorials/blob/master/jackson/src/main/java/com/baeldung/jackson/enums/Distance.java
+
+http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+
+http://www.devglan.com/spring-boot/spring-boot-h2-database-example
+
+http://zetcode.com/articles/springbooth2/
+
+https://spring.io/guides/gs/async-method/
+http://niels.nu/blog/2016/spring-async-rest.html
+https://codeinjava.in/spring-boot-async-rest-controller/
+***************************************************************************************************************************
+
+SWAGGER:
+https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
+http://heidloff.net/article/usage-of-swagger-2-0-in-spring-boot-applications-to-document-apis/
+
+tutorial:
+http://localhost:8080/swagger-ui.html
+
+ZUUL:
+https://howtodoinjava.com/spring/spring-cloud/spring-cloud-api-gateway-zuul/
+https://spring.io/guides/gs/routing-and-filtering/
+http://javasampleapproach.com/spring-framework/spring-cloud/configure-springboot-zuul-routing-filtering
+https://stackoverflow.com/questions/28670640/spring-cloud-zuul-proxy-is-producing-a-no-access-control-allow-origin-ajax-r
+https://github.com/spring-cloud-samples/sample-zuul-filters/blob/master/src/main/java/org/springframework/cloud/samplezuulfilters/UppercaseRequestEntityFilter.java
+https://github.com/spring-cloud/spring-cloud-netflix/issues/1874
+
+https://github.com/spring-cloud/spring-cloud-netflix/issues/1754
+
+TEST:
+https://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/
+http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+
+ALL:
+https://jaxenter.com/spring-boot-tutorial-rest-services-and-microservices-135148.html
+
+
+https://www.concretepage.com/spring-boot/spring-boot-rest-jpa-hibernate-mysql-example#test
